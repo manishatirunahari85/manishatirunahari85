@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img src="assets/header-banner.png" width="100%" alt="Welcome Banner" />
+<img src="assets/header-banner.jpeg" width="100%" alt="Welcome Banner" />
 
 <!-- NAME + ROLE -->
 <h1 align="center">Hola! Manisha here👋</h1>
