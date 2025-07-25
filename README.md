@@ -128,7 +128,7 @@ DevOps & Tools
 Got an idea in AI, data, or cloud?  
 Let’s team up and build something awesome!
 
-📧 Email: tirunaharimanisha14@gmail.com  
+📧 Email: tirunahari_manisha@outlook.com  
 📍 Based in the U.S. | Open to remote work/ hybrid/ onsite
 
 ---
